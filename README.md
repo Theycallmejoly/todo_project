@@ -1,7 +1,3 @@
-Here’s a GitHub-ready documentation for your Django REST Framework (DRF) project with clear explanations:
-
----
-
 # **Django Task Management API**
 
 This is a simple **Task Management API** built with **Django REST Framework (DRF)**. The project provides a CRUD interface for managing tasks with features like filtering and validation.
